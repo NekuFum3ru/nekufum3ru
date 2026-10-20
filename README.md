@@ -1,17 +1,20 @@
 <div align="center">
-  <img src="https://i.imgur.com/GpVVD1I.jpeg" width="450"><br><br>
+
+  <img src="https://i.imgur.com/GpVVD1I.jpeg" width="100%">
+  <br><br>
   
-  <video src="https://i.imgur.com/5hbGbCL.mp4" width="450" controls></video>
+  <img src="https://res.cloudinary.com/s327zmog/image/upload/v1792528739/FromKlickpin.com-BeautifulworkwearoutfitideasthataretrendingrightnowacrossPinterestboardsforideasworthsavingrightnow-pin-id-109-ezgif.com-video-to-gif-converter.gif" alt="Banner" width="600">
 </div>
 
 <br>
 
-<table>
-  <tr>
-    <td valign="middle">
+<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td valign="middle" style="border: none;">
       <img src="https://imgur.com/GYROKVl.jpeg" alt="I Alone" width="450">
     </td>
-    <td align="center" valign="middle">
+    <td align="center" valign="middle" style="border: none;">
+      <br>
       Cuantas veces hemos perdido por estar en el mismo lugar,<br>
       unidos o alejados siempre ha llegado la misma inquietud.<br>
       Igual nunca falta las sonrisas y los momentos alegres<br>
@@ -26,6 +29,7 @@
       una nueva oportunidad para dejar<br>
       las lagrimas del pasado y regresar donde<br>
       la casa donde fuimos felices.
+      <br>
     </td>
   </tr>
 </table>
