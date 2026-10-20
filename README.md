@@ -11,7 +11,7 @@
 <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td valign="middle" style="border: none;">
-      <img src="https://imgur.com/GYROKVl.jpeg" alt="I Alone" width="450">
+      <img src="https://imgur.com/GYROKVl.jpeg" alt="I Alone" width="400">
     </td>
     <td align="center" valign="middle" style="border: none;">
       <br>
