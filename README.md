@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td valign="middle">
-      <img src="https://imgur.com/GYROKVl.jpeg" alt="I Alone" width="550">
+      <img src="https://imgur.com/GYROKVl.jpeg" alt="I Alone" width="450">
     </td>
     <td align="center" valign="middle">
       Cuantas veces hemos perdido por estar en el mismo lugar,<br>
