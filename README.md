@@ -1,3 +1,11 @@
+<div align="center">
+  <img src="https://i.imgur.com/GpVVD1I.jpeg" width="450"><br><br>
+  
+  <video src="https://i.imgur.com/5hbGbCL.mp4" width="450" controls></video>
+</div>
+
+<br>
+
 <table>
   <tr>
     <td valign="middle">
