@@ -1,54 +1,23 @@
-Cuidado con NULL
-
-Cuidado con NULL
-
-Cuidado con NULL
-
-Cuidado con NULL
-
-Cuidado con NULL
-
-Cuidado con NULL
-
-....
-
-####@###@#######@##@###@#########@######
-#@###@@####@#@##@########@######@#@#@##@
-@#@#@#########@@@@=@%%@@@@#####@@@###@##
-#@#@########@:-          .*=@###@#######
-#####@@##%..                .:-@@###@###
-#######@%                      *@##@####
-#@#@#@+-                        *@#@####
-#@#@##:                          =@@####
-###@@@.                         =.@@#@##
-#####*                           :@#####
-#####@.      -:.:      :  -      -+@###@
-#####@%                         %@@@@@##
-#####@.                         @@@@####
-##@##@@.      .          ..    =##@##@@#
-#######@=      .:::::::-.   .=@###@@####
-##@@######=                 *@###@#@##@#
-########@#@+                -%##########
-###########@:              +@@#######@@#
-#########@##:              *########@##@
-@###@#@##@#@:              :@####@@##@#@
-#######@+:                   -*=@#@##@##
-##@##@%:                         *%####@
-####@:                             *@###
-@%+*                                 .+=
-
-
-<!--
-**NekuFum3ru/nekufum3ru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td valign="middle">
+      <img src="https://imgur.com/GYROKVl.jpeg" alt="I Alone" width="600">
+    </td>
+    <td align="center" valign="middle">
+      Cuantas veces hemos perdido por estar en el mismo lugar,<br>
+      unidos o alejados siempre ha llegado la misma inquietud.<br>
+      Igual nunca falta las sonrisas y los momentos alegres<br>
+      dentro de nosotros que nos hace olvidar por unos minutos.<br>
+      Aunque quisiera saber cual fue el eje que rompió el sentimiento,<br>
+      donde quedarón esos momentos donde eramos felices.<br>
+      Ojala algún día...<br><br>
+      Como un bebe dormido, sueño profundamente buscando lo que<br>
+      olvide como tu aroma , tu sonrisa , tu calor y esos ojos que <br>
+      noche tras noche desearía que estuvieras acá.<br><br>
+      Nacera una mañana llegara esos dicen,<br>
+      una nueva oportunidad para dejar<br>
+      las lagrimas del pasado y regresar donde<br>
+      la casa donde fuimos felices.
+    </td>
+  </tr>
+</table>
